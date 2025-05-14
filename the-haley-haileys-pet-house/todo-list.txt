@@ -1,4 +1,0 @@
--- fix add product
--- finish filling out the add commands
-
--- populate the database with the current working commands
